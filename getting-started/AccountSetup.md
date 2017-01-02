@@ -1,9 +1,8 @@
 As of the writing of this (2017-01-01) accounts are free for 12 months, however you will need to enter payment information.
 
-Note: The instructions a references to AWS tutorials below will show you how to host your application on a sub-subdomain of elasticbeanstalk.com, and update that application via .zip file uploads.
+Note: The instructions and references to AWS tutorials below will show you how to host your application on a sub-subdomain of elasticbeanstalk.com, and update that application via .zip file uploads.
 
-For instructions on how to host applications on vanity URLS, click here.
-For instructions on how to setup FTP updates to AWS, click here.
+For instructions on how to host applications on vanity URLS, [click here](https://github.com/JasonWeakley/aws-for-dummies/blob/master/vanity-url/SetupGuide.md).
 
 ##Personal Account Creation
 Step 1 - Contact Information
